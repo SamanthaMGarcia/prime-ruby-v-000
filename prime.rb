@@ -1,3 +1,3 @@
 def prime?(integer)
-  Prime.each do |prime|
+  integer.each do |prime|
 end
